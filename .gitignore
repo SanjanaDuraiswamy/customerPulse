@@ -1,0 +1,33 @@
+envv
+# Python environment
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+logs/
+regressionlogs/
+*.log
+
+# Large data files (if you want to exclude them)
+# *.csv
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Compiled model files (optional)
+# *.h5
+# *.pkl
