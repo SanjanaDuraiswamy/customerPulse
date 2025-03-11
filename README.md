@@ -13,7 +13,7 @@ This project is a customer churn prediction system built using Artificial Neural
 - **Model Saving & Loading:** Using pickle and `.h5` format.
 - **Interactive UI:** Built using Streamlit for easy model interaction.
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 The project is built using the following technologies:
 
